@@ -1,2 +1,2 @@
-# Alarm_Sistemi
-Raspberyy pi ile Mesafe Ölçen ve Hareket Algılayıcı Alarm Sistemi
+# Alarm Sistemi
+Gömülü Sistemler Dersi Raspberyy pi ile Mesafe Ölçen ve Hareket Algılayıcı Alarm Sistemi
